@@ -268,7 +268,7 @@ namespace Kelvin
             AdjustBlue(_stepRed, AdjustOperation.Add, InvokeType.Slider);
             SetBrightness(curBrightness);
 
-            //presetsToolStripMenuItem.DropDown.Items
+            //presetsToolStripMenuItem.DropDown.Items gkkhlk
             presetsToolStripMenuItem.Click += PresetsToolStripMenuItem_Click;
 
         }
